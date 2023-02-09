@@ -1,7 +1,7 @@
 # Chatty
 
 Pseudo-Twitter-System
-- Jva
+- Java
 - Spring boot
 - Spring Security
 - JPA/Hibernate
